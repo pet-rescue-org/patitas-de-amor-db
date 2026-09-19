@@ -37,7 +37,7 @@
     "id": "record-1789811914441",
     "title": "JORNADA",
     "description": "PRUEBA\n",
-    "type": "general",
+    "type": "perdida",
     "status": "active",
     "attributes": {
       "alt_text": "",
@@ -48,6 +48,6 @@
     "main_image": "",
     "gallery": [],
     "created_at": "2026-09-19T09:58:34.614Z",
-    "updated_at": "2026-09-19T09:58:34.614Z"
+    "updated_at": "2026-09-19T13:22:41.548Z"
   }
 ]
