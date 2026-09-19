@@ -1,0 +1,17 @@
+{
+  "id": "record-1789824116665",
+  "title": "JORNADA 2",
+  "description": "PRUEBA 2",
+  "type": "esterilizacion",
+  "status": "active",
+  "attributes": {
+    "alt_text": "",
+    "date": "2026-09-19",
+    "time": "",
+    "location": ""
+  },
+  "main_image": "",
+  "gallery": [],
+  "created_at": "2026-09-19T13:21:56.988Z",
+  "updated_at": "2026-09-19T13:21:56.988Z"
+}
