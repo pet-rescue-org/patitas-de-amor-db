@@ -20,27 +20,5 @@
     "gallery": [],
     "created_at": "2026-09-19T10:14:32.027Z",
     "updated_at": "2026-09-19T10:14:32.027Z"
-  },
-  {
-    "id": "record-1789811882396",
-    "title": "PEPE",
-    "description": "",
-    "type": "general",
-    "status": "disponible",
-    "attributes": {
-      "especie": "",
-      "raza": "",
-      "sexo": "",
-      "tamano": "",
-      "edad_aproximada": "",
-      "destacado": false,
-      "vacunado": false,
-      "esterilizado": false,
-      "desparasitado": false
-    },
-    "main_image": "",
-    "gallery": [],
-    "created_at": "2026-09-19T09:58:02.755Z",
-    "updated_at": "2026-09-19T09:58:02.755Z"
   }
 ]
