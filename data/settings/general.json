@@ -2,6 +2,8 @@
   "phone": "+1 234 567 8900",
   "whatsapp": "12345678900",
   "email": "contacto@patitasdeamor.org",
-  "address": "Calle Falsa 123, Ciudad, PaÃ­s",
-  "map_url": ""
+  "address": "Calle Falsa 123, Ciudad, PaÃÂ­s",
+  "map_url": "",
+  "domainExpirationDate": "2027-10-02T00:00:00Z",
+  "domainAlertEnabled": true
 }
