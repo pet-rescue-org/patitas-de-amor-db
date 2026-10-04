@@ -17,8 +17,10 @@
     "esterilizado": true,
     "desparasitado": true
   },
-  "main_image": "",
-  "gallery": [],
+  "main_image": "https://cdn.jsdelivr.net/gh/pet-rescue-org/patitas-de-amor-db@main/images/pets/record-1789824191544-1791149576650.webp",
+  "gallery": [
+    "https://cdn.jsdelivr.net/gh/pet-rescue-org/patitas-de-amor-db@main/images/pets/record-1789824191544-gallery-1791149576650-0.webp"
+  ],
   "created_at": "2026-09-19T13:23:11.877Z",
-  "updated_at": "2026-10-04T21:20:39.043Z"
+  "updated_at": "2026-10-04T21:32:56.650Z"
 }
