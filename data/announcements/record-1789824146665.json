@@ -9,10 +9,10 @@
     "date": "2026-09-19",
     "time": "",
     "location": "",
-    "is_active": true
+    "is_active": false
   },
   "main_image": "",
   "gallery": [],
   "created_at": "2026-09-19T13:22:26.815Z",
-  "updated_at": "2026-10-04T10:21:03.734Z"
+  "updated_at": "2026-10-04T10:21:56.101Z"
 }
