@@ -8,10 +8,11 @@
     "alt_text": "prueba",
     "date": "2026-09-19",
     "time": "",
-    "location": ""
+    "location": "",
+    "is_active": false
   },
   "main_image": "",
   "gallery": [],
   "created_at": "2026-09-19T13:21:56.988Z",
-  "updated_at": "2026-10-04T09:49:44.767Z"
+  "updated_at": "2026-10-04T10:25:02.175Z"
 }
