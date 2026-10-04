@@ -12,7 +12,7 @@
       "tamano": "pequeno",
       "edad_aproximada": "2 años",
       "peso_kg": 10,
-      "is_active": true,
+      "is_active": false,
       "destacado": true,
       "vacunado": true,
       "esterilizado": true,
@@ -21,7 +21,7 @@
     "main_image": "",
     "gallery": [],
     "created_at": "2026-09-19T13:23:11.877Z",
-    "updated_at": "2026-10-04T11:03:30.348Z"
+    "updated_at": "2026-10-04T21:20:39.043Z"
   },
   {
     "id": "record-1789824069330",
