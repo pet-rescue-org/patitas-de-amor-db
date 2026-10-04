@@ -11,7 +11,7 @@
     "tamano": "pequeno",
     "edad_aproximada": "2 años",
     "peso_kg": 10,
-    "is_active": true,
+    "is_active": false,
     "destacado": true,
     "vacunado": true,
     "esterilizado": true,
@@ -22,5 +22,5 @@
     "https://cdn.jsdelivr.net/gh/pet-rescue-org/patitas-de-amor-db@main/images/pets/record-1789824191544-gallery-1791149576650-0.webp"
   ],
   "created_at": "2026-09-19T13:23:11.877Z",
-  "updated_at": "2026-10-04T21:33:05.329Z"
+  "updated_at": "2026-10-04T23:01:20.680Z"
 }
