@@ -1,23 +1,24 @@
 {
   "id": "record-1789824069330",
   "title": "PEPE",
-  "description": "",
+  "description": "Pelusa es una gatita de 8 meses, tranquila, cariñosa y muy limpia. Está esterilizada, desparasitada y lista para encontrar una familia que le dé un espacio seguro.",
   "type": "general",
   "status": "disponible",
   "attributes": {
-    "especie": "",
-    "raza": "",
-    "sexo": "",
-    "tamano": "",
-    "edad_aproximada": "",
-    "destacado": false,
-    "vacunado": false,
-    "esterilizado": false,
-    "desparasitado": false,
-    "is_active": true
+    "especie": "perro",
+    "raza": "maltipoo",
+    "sexo": "macho",
+    "tamano": "pequeno",
+    "edad_aproximada": "2 meses",
+    "peso_kg": 5,
+    "is_active": true,
+    "destacado": true,
+    "vacunado": true,
+    "esterilizado": true,
+    "desparasitado": true
   },
   "main_image": "",
   "gallery": [],
   "created_at": "2026-09-19T13:21:09.635Z",
-  "updated_at": "2026-10-04T10:46:59.727Z"
+  "updated_at": "2026-10-04T10:51:47.372Z"
 }
