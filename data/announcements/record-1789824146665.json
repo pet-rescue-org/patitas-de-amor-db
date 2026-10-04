@@ -1,18 +1,20 @@
 {
   "id": "record-1789824146665",
-  "title": "JORNADA 3",
-  "description": "PRUEBA 3",
-  "type": "general",
+  "title": "Jornada de vacunación",
+  "description": "Jornada de vacunación y desparasitación este sábado! Estaremos atendiendo desde las 8:30 a. m. por orden de llegada en la sede principal. Recuerda traer a tu peludo con collar, placa y correa. ¡Cupos limitados para pequeños sin hogar!",
+  "type": "vacunacion",
   "status": "active",
   "attributes": {
-    "alt_text": "",
+    "alt_text": "vacunacion: Jornada de vacunación en Plaza Mayor (2026-09-19)",
     "date": "2026-09-19",
-    "time": "",
-    "location": "",
-    "is_active": true
+    "time": "08:00 AM - 05:00 PM",
+    "location": "Plaza Mayor",
+    "is_active": true,
+    "image_width": 530,
+    "image_height": 530
   },
-  "main_image": "",
+  "main_image": "https://cdn.jsdelivr.net/gh/pet-rescue-org/patitas-de-amor-db@main/images/announcements/record-1789824146665-1791114198400.webp",
   "gallery": [],
   "created_at": "2026-09-19T13:22:26.815Z",
-  "updated_at": "2026-10-04T10:26:16.119Z"
+  "updated_at": "2026-10-04T11:43:18.400Z"
 }
