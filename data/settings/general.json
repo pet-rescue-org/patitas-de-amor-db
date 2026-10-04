@@ -4,6 +4,8 @@
   "email": "contacto@patitasdeamor.org",
   "address": "Calle Falsa 123, Ciudad, ",
   "map_url": "",
-  "domainExpirationDate": "2027-10-02",
+  "expirationDate": "2026-10-05",
+  "monitoringActive": true,
+  "domainExpirationDate": "2026-10-05",
   "domainAlertEnabled": true
 }
