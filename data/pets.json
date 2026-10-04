@@ -2,25 +2,26 @@
   {
     "id": "record-1789824191544",
     "title": "COCO",
-    "description": "",
+    "description": "Coco es un perrito mestizo de aproximadamente 2 años, muy juguetón y lleno de energía. Se lleva excelente con niños y otros perros, pasea bien con correa y ya cuenta con su esquema de vacunación al día. Busca un hogar amoroso y responsable donde pueda recibir paseos diarios y mucho cariño.",
     "type": "general",
     "status": "disponible",
     "attributes": {
-      "especie": "",
+      "especie": "perro",
       "raza": "",
-      "sexo": "",
-      "tamano": "",
-      "edad_aproximada": "",
-      "destacado": false,
-      "vacunado": false,
-      "esterilizado": false,
-      "desparasitado": false,
-      "is_active": true
+      "sexo": "macho",
+      "tamano": "pequeno",
+      "edad_aproximada": "2 meses",
+      "peso_kg": 10,
+      "is_active": true,
+      "destacado": true,
+      "vacunado": true,
+      "esterilizado": true,
+      "desparasitado": true
     },
     "main_image": "",
     "gallery": [],
     "created_at": "2026-09-19T13:23:11.877Z",
-    "updated_at": "2026-10-04T10:33:52.782Z"
+    "updated_at": "2026-10-04T10:48:52.036Z"
   },
   {
     "id": "record-1789824069330",
