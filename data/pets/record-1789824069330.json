@@ -11,7 +11,7 @@
     "tamano": "pequeno",
     "edad_aproximada": "2 meses",
     "peso_kg": 5,
-    "is_active": true,
+    "is_active": false,
     "destacado": true,
     "vacunado": true,
     "esterilizado": true,
@@ -20,5 +20,5 @@
   "main_image": "",
   "gallery": [],
   "created_at": "2026-09-19T13:21:09.635Z",
-  "updated_at": "2026-10-04T11:04:05.082Z"
+  "updated_at": "2026-10-04T21:20:43.016Z"
 }
