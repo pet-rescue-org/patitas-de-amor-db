@@ -38,11 +38,11 @@
       "vacunado": false,
       "esterilizado": false,
       "desparasitado": false,
-      "is_active": false
+      "is_active": true
     },
     "main_image": "",
     "gallery": [],
     "created_at": "2026-09-19T13:21:09.635Z",
-    "updated_at": "2026-10-04T10:46:53.400Z"
+    "updated_at": "2026-10-04T10:46:59.727Z"
   }
 ]
