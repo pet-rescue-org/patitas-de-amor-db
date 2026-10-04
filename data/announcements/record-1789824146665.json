@@ -10,11 +10,11 @@
     "time": "08:00 AM - 05:00 PM",
     "location": "Plaza Mayor",
     "is_active": true,
-    "image_width": 530,
-    "image_height": 530
+    "image_width": 700,
+    "image_height": 382
   },
-  "main_image": "https://cdn.jsdelivr.net/gh/pet-rescue-org/patitas-de-amor-db@main/images/announcements/record-1789824146665-1791114198400.webp",
+  "main_image": "https://cdn.jsdelivr.net/gh/pet-rescue-org/patitas-de-amor-db@main/images/announcements/record-1789824146665-1791114358487.webp",
   "gallery": [],
   "created_at": "2026-09-19T13:22:26.815Z",
-  "updated_at": "2026-10-04T11:43:18.400Z"
+  "updated_at": "2026-10-04T11:45:58.487Z"
 }
