@@ -2,7 +2,7 @@
   {
     "id": "record-1789824191544",
     "title": "COCO",
-    "description": "Coco es un perrito mestizo de aproximadamente 2 aÃ±os, muy juguetÃ³n y lleno de energÃ­a. Se lleva excelente con niÃ±os y otros perros, pasea bien con correa y ya cuenta con su esquema de vacunaciÃ³n al dÃ­a. Busca un hogar amoroso y responsable donde pueda recibir paseos diarios y mucho cariÃ±o.",
+    "description": "Coco es un perrito mestizo de 2 años, muy juguetón y cariñoso. Le encanta pasear por las mañanas, convive excelente con niños y otros animales, y busca un hogar donde le brinden mucha atención y cariño.",
     "type": "general",
     "status": "disponible",
     "attributes": {
@@ -10,7 +10,7 @@
       "raza": "maltipoo",
       "sexo": "macho",
       "tamano": "pequeno",
-      "edad_aproximada": "2 meses",
+      "edad_aproximada": "2 años",
       "peso_kg": 10,
       "is_active": true,
       "destacado": true,
@@ -21,7 +21,7 @@
     "main_image": "",
     "gallery": [],
     "created_at": "2026-09-19T13:23:11.877Z",
-    "updated_at": "2026-10-04T10:52:00.869Z"
+    "updated_at": "2026-10-04T11:03:30.348Z"
   },
   {
     "id": "record-1789824069330",
