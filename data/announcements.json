@@ -10,12 +10,12 @@
       "date": "2026-09-19",
       "time": "",
       "location": "",
-      "is_active": false
+      "is_active": true
     },
     "main_image": "",
     "gallery": [],
     "created_at": "2026-09-19T13:22:26.815Z",
-    "updated_at": "2026-10-04T10:20:51.845Z"
+    "updated_at": "2026-10-04T10:21:03.734Z"
   },
   {
     "id": "record-1789824116665",
