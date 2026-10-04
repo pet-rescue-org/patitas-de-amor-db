@@ -14,10 +14,10 @@
     "vacunado": false,
     "esterilizado": false,
     "desparasitado": false,
-    "is_active": true
+    "is_active": false
   },
   "main_image": "",
   "gallery": [],
   "created_at": "2026-09-19T13:23:11.877Z",
-  "updated_at": "2026-10-04T10:03:32.925Z"
+  "updated_at": "2026-10-04T10:03:37.925Z"
 }
