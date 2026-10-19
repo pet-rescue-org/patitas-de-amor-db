@@ -1,25 +1,5 @@
 [
   {
-    "id": "record-1789824116665",
-    "title": "gran bazar benéfico",
-    "description": "Este fin de semana realizaremos un gran bazar benéfico a favor de nuestros rescatados. Contaremos con venta de pasteles, accesorios, corte de uñas y revisión veterinaria básica gratuita. Todo lo recaudado se destinará a cubrir los gastos médicos y la alimentación de más de cuarenta animales en recuperación. ¡Acompáñanos en familia y sé parte del cambio!",
-    "type": "evento",
-    "status": "active",
-    "attributes": {
-      "alt_text": "evento: gran bazar benéfico en Centro Comunitario (2026-09-19)",
-      "date": "2026-09-19",
-      "time": "11:00 AM - 04:00 PM",
-      "location": "Centro Comunitario",
-      "is_active": true,
-      "image_width": 700,
-      "image_height": 382
-    },
-    "main_image": "",
-    "gallery": [],
-    "created_at": "2026-09-19T13:21:56.988Z",
-    "updated_at": "2026-10-04T23:15:52.267Z"
-  },
-  {
     "id": "record-1789811914441",
     "title": "JORNADA",
     "description": "PRUEBA\n",
